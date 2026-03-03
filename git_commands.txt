@@ -1,0 +1,6 @@
+1. git init: to initialize a new repository
+git add:to stage files for new commit
+git commit -m:save staged changes to local repo with descriptive message
+git push: upload local bramch commits to remote repo
+git pull fetch and merge changes to local working repo
+git branch : list create or delete branches
